@@ -1,8 +1,9 @@
-#AI-expense-Manager-of-Trip
-
+# AI-expense-Manager-of-Trip
+---
 This is a repository for ML modules of AI-expense-Manger-of-Trip(MT).
 
-#Dataset
+# Dataset
+---
 1. USD<br/>
 ![description](dataset/usd/description.JPG)<br/>
 * link : [https://github.com/AI-expense-Manager-of-Trip/ML/dataset/usd](https://github.com/AI-expense-Manager-of-Trip/ML/dataset/usd)<br/>
