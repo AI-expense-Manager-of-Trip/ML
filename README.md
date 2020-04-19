@@ -6,6 +6,7 @@ This is a repository for ML modules of AI-expense-Manger-of-Trip(MT).
 ---
 1. USD<br/>
 ![description](dataset/usd/description.JPG)<br/>
+![type](dataset/usd/type.JPG)<br/>
 * link : [https://github.com/AI-expense-Manager-of-Trip/ML/dataset/usd](https://github.com/AI-expense-Manager-of-Trip/ML/dataset/usd)<br/>
 
 2. JPY<br/>
