@@ -23,6 +23,6 @@ This is a repository for ML modules of AI-expense-Manger-of-Trip(MT).
 ![type](dataset/krw/type.JPG)<br/>
 * link : [https://github.com/AI-expense-Manager-of-Trip/ML/dataset/krw](https://github.com/AI-expense-Manager-of-Trip/ML/dataset/krw)<br/>
 
-4. EUR<br/>
-![type](dataset/eur/type.JPG)<br/>
+5. EUR<br/>
+![type](dataset/eur/type.jpg)<br/>
 * link : [https://github.com/AI-expense-Manager-of-Trip/ML/dataset/eur](https://github.com/AI-expense-Manager-of-Trip/ML/dataset/eur)<br/>
