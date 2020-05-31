@@ -16,6 +16,7 @@ This is a repository for ML modules of AI-expense-Manger-of-Trip(MT).
 
 3. CNY<br/>
 ![description](dataset/cny/description.JPG)<br/>
+![type](dataset/cny/type.JPG)<br/>
 * link : [https://github.com/AI-expense-Manager-of-Trip/ML/dataset/cny](https://github.com/AI-expense-Manager-of-Trip/ML/dataset/cny)<br/>
 
 4. KRW<br/>
