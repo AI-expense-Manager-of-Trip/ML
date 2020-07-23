@@ -8,18 +8,18 @@ def recvall(sock, count):
     buf = b''
     while count:
         newbuf = sock.recv(count)
-        if not newbuf: returen None
+        if not newbuf: return None
         buf += nuewbuf
         count -= len(newbuf)
     print(buf)
     return buf
 
 # 수신에 사용될 server ip와 server port번호
-TCP_IP = '220.69.208.241'
+TCP_IP = '192.168.0.0'
 TCP_PORT = 8888
 
 # tcp 소켓 열고 수신 대기
-s = socekt.socket(socket.AF_INET, socket.SOCK_STREAM)
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((TCP_IP, TCP_PORT))
 s.listen(True)
 print("연결 대기 중")
