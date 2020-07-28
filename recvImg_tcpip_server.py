@@ -29,7 +29,6 @@ print("연결 대기 중")
 conn, addr = s.accept()
 print("연결 성공")
 
-# 편의를 위해 이미지의 길이를 16으로 지정하고 데이터를 수신하는 것
 # str 형의 이미지를 수신받아서 이미지로 변환하고 화면에 출력
 recvbytes = recvall(conn)
 print(len(recvbytes))
